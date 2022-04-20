@@ -1,5 +1,5 @@
 # Cronômetro Regressivo 
- um cronômetro regressivo e simples, quando o tempo esgota vocÇe recebe um alerta.
+ um cronômetro regressivo e simples, quando o tempo esgota você recebe um alerta.
 
   **Experimente Agora:**[Cronômetro Regressivo](https://app.netlify.com/sites/cronometro-regressivo/deploys)
  ![Cronômetro Regressivo](img/cronometrosite.png)
@@ -9,4 +9,4 @@
 - HTML5
 - CSS3
 - JavaScript
-- Visual Studio Code
+- Visual Studio Code (Editor)
